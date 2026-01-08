@@ -23,6 +23,6 @@ Mac (build) → ghcr.io (push) → Dell XPS K3s (deploy)
 
 ## Projects
 
-- **Kartik Calling Kartik** — AI telephony agent with voice cloning
+- **Eashan Calling Eashan [https://github.com/eashanchawla/eashan-calling-eashan]** — AI telephony agent with voice cloning
 - **Visitor Recognition** — Raspberry Pi face detection system
 - **Home Automation** — Various automation experiments
